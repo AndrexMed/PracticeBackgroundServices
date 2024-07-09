@@ -1,0 +1,12 @@
+[
+  {
+    "ContainingType": "AutomaticProcess.Controllers.HelloController",
+    "Method": "GetStatus",
+    "RelativePath": "api/Hello",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  }
+]

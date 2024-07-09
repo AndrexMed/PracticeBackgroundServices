@@ -1,0 +1,6 @@
+@AutomaticProcess_HostAddress = http://localhost:5018
+
+GET {{AutomaticProcess_HostAddress}}/Hello/
+Accept: application/json
+
+###
